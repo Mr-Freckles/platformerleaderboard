@@ -1,0 +1,32 @@
+table, th, td {
+    border: 1px solid;
+    padding-left: 300px;
+    padding-right: 300px;
+    color: white;
+  }
+
+.table {
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: radial-gradient(circle, rgba(36,7,0,1) 0%, rgba(23,217,172,1) 0%, rgba(107,9,121,1) 50%, rgba(40,62,182,1) 100%);
+}
+
+h1 {
+    text-align: center;
+    -webkit-text-fill-color: rgb(168, 8, 8);
+}
+
+.link {
+    text-decoration: solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    -webkit-text-fill-color: rgb(8, 16, 168);
+    margin-top: 50px;
+}
